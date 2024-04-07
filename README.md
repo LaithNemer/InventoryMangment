@@ -1,4 +1,3 @@
-"# InventoryMangment" 
 
 Inventory mangment system: A program aimed at managing the operations from insert ,delete,update,and get data
 and the picture is describe the ER digram:
