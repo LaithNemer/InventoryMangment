@@ -1,7 +1,7 @@
 "# InventoryMangment" 
 
-Inventory mangment system:
-
+Inventory mangment system: A program aimed at managing the operations from insert ,delete,update,and get data
+and the picture is describe the ER digram:
 
 ![Capture](https://github.com/LaithNemer/InventoryMangment/assets/130616174/681b838f-b404-48d1-b233-6449dea7f5eb)
 [Inventory mangment (1).pdf](https://github.com/LaithNemer/InventoryMangment/files/14893880/Inventory.mangment.1.pdf)
