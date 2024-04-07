@@ -11,5 +11,14 @@ using swaager editor i designed system :
 
 <br>
 
+<h4>how it work : </h4>
+i will use spring boot as framework on java language 
+and i will use mvc design pattern where do 4 packges (controller,entity,service,and repositry).<br>
+first must insert data in customer (name of customer) after that can insert order for the customer <br>
+and must insert information about supplier until you are able to enter data on item 
+when finched insert data for any entity can do all oparitions from post,put,delete,and get.
+
+
+
 
 
